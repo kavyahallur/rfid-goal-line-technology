@@ -5,7 +5,7 @@
 ---
 
 ## 🏗️ System Architecture
-![Architecture](architecture.png)
+![Architecture](architectures.png)
 
 ---
 
